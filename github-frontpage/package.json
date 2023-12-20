@@ -1,5 +1,5 @@
 {
-  "name": "github-frontpage",
+  "name": "github-page",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,12 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@react-spring/web": "^9.7.3",
     "cobe": "^0.6.3",
     "framer-motion": "^10.16.16",
     "next": "14.0.4",
     "react": "^18",
-    "react-dom": "^18",
-    "react-spring": "^9.7.3"
+    "react-dom": "^18"
   },
   "devDependencies": {
     "@types/node": "^20",
